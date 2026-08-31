@@ -18,4 +18,4 @@ During training, the agent learns to leave gaps between scheduled tasks to accou
 
 ## Research Paper
 
-For a full explanation of the problem, architecture, training process, results, and limitations, see the [Taskmaster Research Paper](Taskmaster_Final_Project.pdf).
+For a full explanation of the problem, architecture, training process, results, and limitations, see the [Taskmaster Research Paper](COS_435_Taskmaster_Final_Project.pdf).
